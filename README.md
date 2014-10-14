@@ -5,8 +5,8 @@ Wordpress Plugin - Generates Image Gallery from Folder
 
 Contains two functions:
 
--createThumbnail() - Can be used alone
--hs_displayGallery() - Uses function above and outputs a list of thumbnails. Example:
++ createThumbnail() - Can be used alone
++ hs_displayGallery() - Uses function above and outputs a list of thumbnails. Example:
 
 ```
 <ul class="hs-generate-gallery">
