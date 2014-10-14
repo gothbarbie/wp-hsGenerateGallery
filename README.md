@@ -20,5 +20,9 @@ Usage:
 
 ```
 <?php createThumbnail($filename, $path_to_image_directory, $path_to_thumbs_directory, $final_width_of_thumbnail); ?>
+```
+
+Or:
+```
 <?php echo hs_displayGallery($url); ?>
 ```
